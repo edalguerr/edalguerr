@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Edwin</h1>
 <h3 align="center">I'm frontend developer 👨‍💻</h3>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=edslguerr alt=edalguerr/> </p>
 <br>
 
 - 🔭 I am currently working on personal projects with Angular and javascript.
