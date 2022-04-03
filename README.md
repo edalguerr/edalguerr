@@ -9,7 +9,7 @@
 
 - 🎓 I'm a systems engineering student in my last semesters.
 - 💛 In my free time, I create projects to practice my skills.
-- 🚀 All of my projects are available on [Github](https://github.com/edalguerr) and in my [portfolio](edalguerr.github.io).
+- 🚀 All of my projects are available on [Github](https://github.com/edalguerr) and in my [portfolio](https://edalguerr.github.io).
 - 💬 Ask me anything, I am willing to add value and be part of incredible projects.
 
 <h3 align="left">Connect with me:</h3>
