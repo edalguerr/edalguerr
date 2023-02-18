@@ -3,9 +3,9 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=edslguerr alt=edalguerr/> </p>
 <br>
 
-- 🔭 I am currently working on personal projects with Angular and javascript.
+- 🔭 I am currently working on personal projects with React, Angular and javascript.
 
-- 🌱 I’m currently learning React and Next
+- 🌱 I’m currently learning Next and Java
 
 - 🎓 I'm a systems engineering student in my last semesters.
 - 💛 In my free time, I create projects to practice my skills.
