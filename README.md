@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Edwin</h1>
-<h3 align="center">I'm frontend developer 👨‍💻</h3>
+<h3 align="center">I'm a frontend developer 👨‍💻</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=edslguerr alt=edalguerr/> </p>
 <br>
 
-- 🔭 I am currently working on personal projects with React, Angular and javascript.
-
-- 🌱 I’m currently learning GraphQL
-
 - 🎓 I'm a systems engineer with 3 years of experience in web application development.
+- 🔭 I am currently working on personal projects with React, Angular and javascript.
+- 🌱 I’m currently learning GraphQL
 - 💛 In my free time, I create projects to practice my skills.
 - 🚀 All of my projects are available on [Github](https://github.com/edalguerr) and my [portfolio](https://edalguerr.github.io).
 - 💬 Ask me anything, I am willing to add value and be part of incredible projects.
